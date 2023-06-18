@@ -1,4 +1,4 @@
-# Starting point
+# my-ublue
 
 [![build-ublue](https://github.com/surreymagpie/my-ublue/actions/workflows/build.yml/badge.svg)](https://github.com/surreymagpie/my-ublue/actions/workflows/build.yml)
 
